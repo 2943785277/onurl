@@ -3,7 +3,8 @@
 node 发送邮件
 http://blog.fens.me/nodejs-email-nodemailer/
 
-
+websocket网络协议
+http://www.ruanyifeng.com/blog/2017/05/websocket.html
 
 码市----众包 git
 https://mart.coding.net/projects?type=0&status=5&role_type_id=
