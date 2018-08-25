@@ -1,26 +1,31 @@
-凹凸实验室 技术
+
+#短视频流量方案
+https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651554567&idx=1&sn=50f00493fbe1b34da71deb9abc9d15b2&chksm=802554c6b752ddd0a75fe0b4477078dab09e10cbc5e161803dd1b7140569044e720636c17289&mpshare=1&scene=1&srcid=0731uvTHO5rQkM3dKRKdUhXi#rd
+
+
+#凹凸实验室 技术
 https://aotu.io/index.html
 
-javascript高程
+#javascript高程
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/import
 
-小程序ID:wx1bfcec2ebbc14c61
+#小程序ID:wx1bfcec2ebbc14c61
 node 发送邮件
 http://blog.fens.me/nodejs-email-nodemailer/
 
-websocket网络协议
+#websocket网络协议
 http://www.ruanyifeng.com/blog/2017/05/websocket.html
 
-码市----众包 git
+#码市----众包 git
 https://mart.coding.net/projects?type=0&status=5&role_type_id=
 
 
 https://freecodecamp.cn/   ----前端技术
 
-flv.js  直播视频
+#flv.js  直播视频
 https://github.com/Bilibili/flv.js
 
-用js实现屏蔽F12、鼠标右击、鼠标左击
+#用js实现屏蔽F12、鼠标右击、鼠标左击
 http://blog.sina.com.cn/s/blog_6217219f0101si4s.html
 
 JS CSS 在线压缩
