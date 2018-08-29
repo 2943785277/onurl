@@ -1,4 +1,6 @@
 
+H5唤起APP指南
+https://suanmei.github.io/2018/08/23/h5_call_app/
 ###短视频流量方案
 https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651554567&idx=1&sn=50f00493fbe1b34da71deb9abc9d15b2&chksm=802554c6b752ddd0a75fe0b4477078dab09e10cbc5e161803dd1b7140569044e720636c17289&mpshare=1&scene=1&srcid=0731uvTHO5rQkM3dKRKdUhXi#rd
 
