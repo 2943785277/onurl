@@ -3,6 +3,8 @@ http://stylechen.com/
 #刷题
 https://github.com/markyun/My-blog
 
+#阿里视频流方案
+https://player.alicdn.com/aliplayer/presentation/index.html
 H5唤起APP指南
 https://suanmei.github.io/2018/08/23/h5_call_app/
 ###短视频流量方案
