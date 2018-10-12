@@ -28,6 +28,8 @@ http://www.ruanyifeng.com/blog/2017/05/websocket.html
 #码市----众包 git
 https://mart.coding.net/projects?type=0&status=5&role_type_id=
 
+#移动端模拟调试
+https://github.com/liriliri/eruda
 
 https://freecodecamp.cn/   ----前端技术
 
