@@ -3,6 +3,9 @@ http://stylechen.com/
 #刷题
 https://github.com/markyun/My-blog
 
+##小程序异常监控简化版
+https://www.cnblogs.com/yfife/p/9305258.html
+
 #阿里视频流方案
 https://player.alicdn.com/aliplayer/presentation/index.html
 
