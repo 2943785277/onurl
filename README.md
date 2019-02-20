@@ -1,3 +1,6 @@
+#vue拖动排序
+https://jexordexan.github.io/vue-slicksort/?selectedKind=Optional%20props&selectedStory=Horizontal%20list&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel
+--------------------------------------------------------
 #前端职位体系
 https://www.cnblogs.com/pao8041/articles/5526874.html
 ----------------------------------------------------------------
