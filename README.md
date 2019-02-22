@@ -1,3 +1,5 @@
+ES 2018 和 2019
+http://tonghuashuo.github.io/blog/2019/02/11/es2018-and-es2019
 #vue拖动排序
 https://jexordexan.github.io/vue-slicksort/?selectedKind=Optional%20props&selectedStory=Horizontal%20list&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel
 --------------------------------------------------------
